@@ -10,6 +10,10 @@
 *.dll
 *.dylib
 
+/.vs
+/Autonomous.Editor/bin
+/Autonomous.Editor/obj
+
 # Qt-es
 object_script.*.Release
 object_script.*.Debug
